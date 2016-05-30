@@ -1,4 +1,4 @@
-# Charlas para Meetup.js
+# Charlas para Meetup.js [![Unite a nuestro Slack!](http://meetupjs.herokuapp.com/badge.svg)](http://meetupjs.herokuapp.com)
 Espacio para proponer las charlas a dar en los meetups de Javascript de [Meetup.js](http://www.meetup.com/Meetup-js/)
 
 (este repo esta basado en el de [BANodeJS](https://github.com/banodejs/charlas))
