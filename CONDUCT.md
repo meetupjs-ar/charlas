@@ -14,9 +14,9 @@ Contamos con la cooperación de todos los participantes para ayudar a garantizar
 [![@nisnardi](https://avatars1.githubusercontent.com/u/1290906?v=3&s=40)](https://github.com/nisnardi) | Nicolás Isnardi | [@isnardi](https://twitter.com/isnardi) | nicolasisnardi@gmail.com
 [![@p4bloch](https://avatars2.githubusercontent.com/u/3620912?v=3&s=40)](https://github.com/p4bloch) | Pablo Chiappetti | [@p4bloch](https://twitter.com/p4bloch) | pchiappetti@gmail.com
 [![@holden-caulfield](https://avatars2.githubusercontent.com/u/1255962?v=3&s=40)](https://github.com/holden-caulfield) | Juan Pablo Saraceno | [@jpsaraceno](https://twitter.com/jpsaraceno) | jsarac@gmail.com
-[![@a0viedo](https://avatars0.githubusercontent.com/u/2440935?v=3&s=40)](https://github.com/a0viedo) | Alejandro Oviedo | [@a0viedo](https://twitter.com/a0viedo) | alejandro.oviedo.g[at]gmail.com
-[![@gianu](https://avatars0.githubusercontent.com/u/128563?v=3&s=40)](https://github.com/gianu) | Sergio Gianazza | [@sgianazza](https://twitter.com/sgianazza) | sgianazza[at]gmail.com
-[![@leoasis](https://avatars1.githubusercontent.com/u/328001?v=3&s=40)](https://github.com/leoasis) | Leonardo Garcia Crespo | [@leogcrespo](https://twitter.com/leogcrespo) | leoasis[at]gmail.com
+[![@a0viedo](https://avatars0.githubusercontent.com/u/2440935?v=3&s=40)](https://github.com/a0viedo) | Alejandro Oviedo | [@a0viedo](https://twitter.com/a0viedo) | alejandro.oviedo.g@gmail.com
+[![@gianu](https://avatars0.githubusercontent.com/u/128563?v=3&s=40)](https://github.com/gianu) | Sergio Gianazza | [@sgianazza](https://twitter.com/sgianazza) | sgianazza@gmail.com
+[![@leoasis](https://avatars1.githubusercontent.com/u/328001?v=3&s=40)](https://github.com/leoasis) | Leonardo Garcia Crespo | [@leogcrespo](https://twitter.com/leogcrespo) | leoasis@gmail.com
 
 ## Version Rapida
 
