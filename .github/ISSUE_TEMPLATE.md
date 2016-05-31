@@ -9,8 +9,6 @@ Breve descripción sobre el tema de la charla
 
 **Sitio:** url del sitio personal (si tenés)
 
-**Repositorio personal:** url del repositorio personal (si tenés)
-
 ### Recursos
 **Slides de la presentación:** url de los slides de la presentación (si tenés)
 
