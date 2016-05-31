@@ -7,11 +7,7 @@ Espacio para proponer las charlas a dar en los meetups de Javascript de [Meetup.
 - Cada charla tiene una duración de 30 minutos. Sin embargo, se pueden evaluar excepciones.
 
 # Cómo
-Es fácil. Abrí un issue para proponer una charla.
-
-Tenés que darlos la siguiente info:
-- Título: [Título de la charla]
-- Twitter: [usuario de Twitter (si tenés)]
+Es fácil. Abrí un [issue](https://github.com/meetupjs-ar/charlas/issues) para proponer una charla.
 
 Si tenés alguna pregunta con respecto a tu charla o al evento, por favor agregá un comentario en el issue y nos mantendremos en contacto.
 
