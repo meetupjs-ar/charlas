@@ -5,6 +5,8 @@ Título de la charla
 Breve descripción sobre el tema de la charla
 
 ### Sobre el orador
+**Slack**: usuario de Slack en MeetupJS (importante, nos ayuda a coordinar con vos para schedulear la charla)
+
 **Twitter:** usuario de Twitter (si tenés)
 
 **Sitio:** url del sitio personal (si tenés)
