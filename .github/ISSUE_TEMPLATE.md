@@ -18,14 +18,12 @@ Breve descripción sobre el tema de la charla. Nos sirve para armar el evento en
 
 ### Recursos
 
-**Slides de la presentación**: URL de la presentación (Si tenés).
-
-**Repositorio de la charla**: URL del repositorio con el código de la charla (Si tenés).
+* **Slides de la presentación**: URL de la presentación (Si tenés).
+* **Repositorio de la charla**: URL del repositorio con el código de la charla (Si tenés).
 
 ### Extra
 
-**Tenes la charla preparada?**: (Sí, No todavía, Necesito ayuda a prepararla porque solo es una idea)
-
-**A partir de que mes la podrías dar?:** (A partir de ..., La podría dar solo en ... porque vengo de viaje)
+* **Tenes la charla preparada?**: (Sí, No todavía, Necesito ayuda a prepararla porque solo es una idea)
+* **A partir de que mes la podrías dar?:** (A partir de ..., La podría dar solo en ... porque vengo de viaje)
 
 > Avisanos si necesitas algo especial para poder dar la charla así lo podemos planificar con tiempo.
